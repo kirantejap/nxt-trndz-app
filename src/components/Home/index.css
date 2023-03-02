@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.home-bgContainer {
+  height: 100vh;
+  padding: 8px;
+}
+
+.home-body-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.head {
+  font-family: Roboto;
+  color: #1e293b;
+  text-align: center;
+  font-size: 36px;
+}
+
+.home-image {
+  height: 200px;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.home-para {
+  font-family: Roboto;
+  color: #475569;
+  font-size: 15px;
+  text-align: center;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  font-family: Roboto;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 12px;
+  width: 140px;
+}

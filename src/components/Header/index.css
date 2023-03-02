@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+
+.header-container {
+}
+
+.first-section {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  height: 50px;
+}
+
+.logo {
+  height: 30px;
+}
+
+.logOut {
+  height: 30px;
+}
+
+.second-section {
+  background-color: #e6f6ff;
+  display: flex;
+  justify-content: space-around;
+  height: 50px;
+  align-items: center;
+  list-style-type: none;
+}
+
+.icon {
+  height: 20px;
+  margin-top: 5px;
+}
